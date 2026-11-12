@@ -1,0 +1,38 @@
+{
+  "name": "juego-mesa-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/copy-country-flags.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/copy-country-flags.mjs",
+    "build": "tsc -b && vite build",
+    "build:admin1": "node scripts/build-admin1-data.mjs && node scripts/build-special-territories.mjs && node scripts/build-country-outlines.mjs",
+    "build:admin1:local": "node scripts/build-admin1-data.mjs --local && node scripts/build-special-territories.mjs && node scripts/build-country-outlines.mjs",
+    "build:special-territories": "node scripts/build-special-territories.mjs",
+    "build:physical-features": "node scripts/build-physical-features.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "flag-icons": "^7.6.0",
+    "i18n-iso-countries": "^7.14.0",
+    "three": "^0.180.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/three": "^0.180.0",
+    "@types/topojson-client": "^3.1.0",
+    "@types/topojson-server": "^3.0.4",
+    "@types/topojson-simplify": "^3.0.3",
+    "@types/topojson-specification": "^1.0.5",
+    "polygon-clipping": "^0.15.7",
+    "topojson-server": "^3.0.1",
+    "topojson-simplify": "^3.0.3",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.6"
+  }
+}

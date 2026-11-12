@@ -1,0 +1,980 @@
+{
+  "source": "samayo/country-json · country-by-government-type.json",
+  "sourceUrl": "https://github.com/samayo/country-json/blob/master/src/country-by-government-type.json",
+  "license": "MIT",
+  "note": "Clasificación general de referencia; puede estar desactualizada o simplificar situaciones políticas complejas.",
+  "countries": [
+    {
+      "country": "Afghanistan",
+      "government": "Emirato islámico"
+    },
+    {
+      "country": "Albania",
+      "government": "República"
+    },
+    {
+      "country": "Algeria",
+      "government": "República"
+    },
+    {
+      "country": "American Samoa",
+      "government": "Territorio de Estados Unidos"
+    },
+    {
+      "country": "Andorra",
+      "government": "Coprincipado parlamentario"
+    },
+    {
+      "country": "Angola",
+      "government": "República"
+    },
+    {
+      "country": "Anguilla",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Antarctica",
+      "government": "Administración compartida internacionalmente"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Argentina",
+      "government": "República federal"
+    },
+    {
+      "country": "Armenia",
+      "government": "República"
+    },
+    {
+      "country": "Aruba",
+      "government": "Territorio neerlandés de ultramar"
+    },
+    {
+      "country": "Australia",
+      "government": "Monarquía constitucional federal"
+    },
+    {
+      "country": "Austria",
+      "government": "República federal"
+    },
+    {
+      "country": "Azerbaijan",
+      "government": "República federal"
+    },
+    {
+      "country": "Bahamas",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Bahrain",
+      "government": "Monarquía (emirato)"
+    },
+    {
+      "country": "Bangladesh",
+      "government": "República"
+    },
+    {
+      "country": "Barbados",
+      "government": "República"
+    },
+    {
+      "country": "Belarus",
+      "government": "República"
+    },
+    {
+      "country": "Belgium",
+      "government": "Monarquía constitucional federal"
+    },
+    {
+      "country": "Belize",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Benin",
+      "government": "República"
+    },
+    {
+      "country": "Bermuda",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Bhutan",
+      "government": "Monarquía"
+    },
+    {
+      "country": "Bolivia",
+      "government": "República"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "government": "República federal"
+    },
+    {
+      "country": "Botswana",
+      "government": "República"
+    },
+    {
+      "country": "Bouvet Island",
+      "government": "Dependent Territory of Norway"
+    },
+    {
+      "country": "Brazil",
+      "government": "República federal"
+    },
+    {
+      "country": "British Indian Ocean Territory",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Brunei",
+      "government": "Monarquía (sultanato)"
+    },
+    {
+      "country": "Bulgaria",
+      "government": "República"
+    },
+    {
+      "country": "Burkina Faso",
+      "government": "República"
+    },
+    {
+      "country": "Burundi",
+      "government": "República"
+    },
+    {
+      "country": "Cambodia",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Cameroon",
+      "government": "República"
+    },
+    {
+      "country": "Canada",
+      "government": "Constitutional Monarchy, Federation"
+    },
+    {
+      "country": "Cape Verde",
+      "government": "República"
+    },
+    {
+      "country": "Cayman Islands",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Central African Republic",
+      "government": "República"
+    },
+    {
+      "country": "Chad",
+      "government": "República"
+    },
+    {
+      "country": "Chile",
+      "government": "República"
+    },
+    {
+      "country": "China",
+      "government": "República popular"
+    },
+    {
+      "country": "Christmas Island",
+      "government": "Territorio de Australia"
+    },
+    {
+      "country": "Cocos (Keeling) Islands",
+      "government": "Territorio de Australia"
+    },
+    {
+      "country": "Colombia",
+      "government": "República"
+    },
+    {
+      "country": "Comoros",
+      "government": "República"
+    },
+    {
+      "country": "Congo",
+      "government": "República"
+    },
+    {
+      "country": "Cook Islands",
+      "government": "Territorio neozelandés de ultramar"
+    },
+    {
+      "country": "Costa Rica",
+      "government": "República"
+    },
+    {
+      "country": "Croatia",
+      "government": "República"
+    },
+    {
+      "country": "Cuba",
+      "government": "República socialista"
+    },
+    {
+      "country": "Cyprus",
+      "government": "República"
+    },
+    {
+      "country": "Czech Republic",
+      "government": "República"
+    },
+    {
+      "country": "Denmark",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Djibouti",
+      "government": "República"
+    },
+    {
+      "country": "Dominica",
+      "government": "República"
+    },
+    {
+      "country": "Dominican Republic",
+      "government": "República"
+    },
+    {
+      "country": "East Timor",
+      "government": "Administrado por Naciones Unidas"
+    },
+    {
+      "country": "Ecuador",
+      "government": "República"
+    },
+    {
+      "country": "Egypt",
+      "government": "República"
+    },
+    {
+      "country": "El Salvador",
+      "government": "República"
+    },
+    {
+      "country": "England",
+      "government": null
+    },
+    {
+      "country": "Equatorial Guinea",
+      "government": "República"
+    },
+    {
+      "country": "Eritrea",
+      "government": "República"
+    },
+    {
+      "country": "Estonia",
+      "government": "República"
+    },
+    {
+      "country": "Eswatini",
+      "government": "Monarquía"
+    },
+    {
+      "country": "Ethiopia",
+      "government": "República"
+    },
+    {
+      "country": "Falkland Islands",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Faroe Islands",
+      "government": "Parte del Reino de Dinamarca"
+    },
+    {
+      "country": "Fiji Islands",
+      "government": "República"
+    },
+    {
+      "country": "Finland",
+      "government": "República"
+    },
+    {
+      "country": "France",
+      "government": "República"
+    },
+    {
+      "country": "French Guiana",
+      "government": "Departamento de ultramar de Francia"
+    },
+    {
+      "country": "French Polynesia",
+      "government": "Territorio francés de ultramar"
+    },
+    {
+      "country": "French Southern territories",
+      "government": "Territorio francés de ultramar"
+    },
+    {
+      "country": "Gabon",
+      "government": "República"
+    },
+    {
+      "country": "Gambia",
+      "government": "República"
+    },
+    {
+      "country": "Georgia",
+      "government": "República"
+    },
+    {
+      "country": "Germany",
+      "government": "República federal"
+    },
+    {
+      "country": "Ghana",
+      "government": "República"
+    },
+    {
+      "country": "Gibraltar",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Greece",
+      "government": "República"
+    },
+    {
+      "country": "Greenland",
+      "government": "Parte del Reino de Dinamarca"
+    },
+    {
+      "country": "Grenada",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Guadeloupe",
+      "government": "Departamento de ultramar de Francia"
+    },
+    {
+      "country": "Guam",
+      "government": "Territorio de Estados Unidos"
+    },
+    {
+      "country": "Guatemala",
+      "government": "República"
+    },
+    {
+      "country": "Guinea",
+      "government": "República"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "government": "República"
+    },
+    {
+      "country": "Guyana",
+      "government": "República"
+    },
+    {
+      "country": "Haiti",
+      "government": "República"
+    },
+    {
+      "country": "Heard Island and McDonald Islands",
+      "government": "Territorio de Australia"
+    },
+    {
+      "country": "Holy See (Vatican City State)",
+      "government": "Estado eclesiástico independiente"
+    },
+    {
+      "country": "Honduras",
+      "government": "República"
+    },
+    {
+      "country": "Hong Kong",
+      "government": "Región Administrativa Especial de China"
+    },
+    {
+      "country": "Hungary",
+      "government": "República"
+    },
+    {
+      "country": "Iceland",
+      "government": "República"
+    },
+    {
+      "country": "India",
+      "government": "República federal"
+    },
+    {
+      "country": "Indonesia",
+      "government": "República"
+    },
+    {
+      "country": "Iran",
+      "government": "República islámica"
+    },
+    {
+      "country": "Iraq",
+      "government": "República"
+    },
+    {
+      "country": "Ireland",
+      "government": "República"
+    },
+    {
+      "country": "Israel",
+      "government": "República"
+    },
+    {
+      "country": "Italy",
+      "government": "República"
+    },
+    {
+      "country": "Ivory Coast",
+      "government": "República"
+    },
+    {
+      "country": "Jamaica",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Japan",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Jordan",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Kazakhstan",
+      "government": "República"
+    },
+    {
+      "country": "Kenya",
+      "government": "República"
+    },
+    {
+      "country": "Kiribati",
+      "government": "República"
+    },
+    {
+      "country": "Kuwait",
+      "government": "Constitutional Monarchy (Emirate)"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "government": "República"
+    },
+    {
+      "country": "Laos",
+      "government": "República"
+    },
+    {
+      "country": "Latvia",
+      "government": "República"
+    },
+    {
+      "country": "Lebanon",
+      "government": "República"
+    },
+    {
+      "country": "Lesotho",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Liberia",
+      "government": "República"
+    },
+    {
+      "country": "Libya",
+      "government": "Estado socialista"
+    },
+    {
+      "country": "Liechtenstein",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Lithuania",
+      "government": "República"
+    },
+    {
+      "country": "Luxembourg",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Macao",
+      "government": "Región Administrativa Especial de China"
+    },
+    {
+      "country": "North Macedonia",
+      "government": "República"
+    },
+    {
+      "country": "Madagascar",
+      "government": "República federal"
+    },
+    {
+      "country": "Malawi",
+      "government": "República"
+    },
+    {
+      "country": "Malaysia",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Maldives",
+      "government": "República"
+    },
+    {
+      "country": "Mali",
+      "government": "República"
+    },
+    {
+      "country": "Malta",
+      "government": "República"
+    },
+    {
+      "country": "Marshall Islands",
+      "government": "República"
+    },
+    {
+      "country": "Martinique",
+      "government": "Departamento de ultramar de Francia"
+    },
+    {
+      "country": "Mauritania",
+      "government": "República"
+    },
+    {
+      "country": "Mauritius",
+      "government": "República"
+    },
+    {
+      "country": "Mayotte",
+      "government": "Colectividad territorial de Francia"
+    },
+    {
+      "country": "Mexico",
+      "government": "República federal"
+    },
+    {
+      "country": "Micronesia, Federated States of",
+      "government": "República federal"
+    },
+    {
+      "country": "Moldova",
+      "government": "República"
+    },
+    {
+      "country": "Monaco",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Mongolia",
+      "government": "República"
+    },
+    {
+      "country": "Montserrat",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Morocco",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Mozambique",
+      "government": "República"
+    },
+    {
+      "country": "Myanmar",
+      "government": "República"
+    },
+    {
+      "country": "Namibia",
+      "government": "República"
+    },
+    {
+      "country": "Nauru",
+      "government": "República"
+    },
+    {
+      "country": "Nepal",
+      "government": "República federal parlamentaria"
+    },
+    {
+      "country": "Netherlands",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Netherlands Antilles",
+      "government": "Territorio neerlandés de ultramar"
+    },
+    {
+      "country": "New Caledonia",
+      "government": "Territorio francés de ultramar"
+    },
+    {
+      "country": "New Zealand",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Nicaragua",
+      "government": "República"
+    },
+    {
+      "country": "Niger",
+      "government": "República"
+    },
+    {
+      "country": "Nigeria",
+      "government": "República federal"
+    },
+    {
+      "country": "Niue",
+      "government": "Territorio neozelandés de ultramar"
+    },
+    {
+      "country": "Norfolk Island",
+      "government": "Territorio de Australia"
+    },
+    {
+      "country": "North Korea",
+      "government": "República socialista"
+    },
+    {
+      "country": "Northern Ireland",
+      "government": null
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "government": "Estado libre asociado de Estados Unidos"
+    },
+    {
+      "country": "Norway",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Oman",
+      "government": "Monarquía (sultanato)"
+    },
+    {
+      "country": "Pakistan",
+      "government": "República"
+    },
+    {
+      "country": "Palau",
+      "government": "República"
+    },
+    {
+      "country": "Palestine",
+      "government": "Área autónoma"
+    },
+    {
+      "country": "Panama",
+      "government": "República"
+    },
+    {
+      "country": "Papua New Guinea",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Paraguay",
+      "government": "República"
+    },
+    {
+      "country": "Peru",
+      "government": "República"
+    },
+    {
+      "country": "Philippines",
+      "government": "República"
+    },
+    {
+      "country": "Pitcairn",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Poland",
+      "government": "República"
+    },
+    {
+      "country": "Portugal",
+      "government": "República"
+    },
+    {
+      "country": "Puerto Rico",
+      "government": "Estado libre asociado de Estados Unidos"
+    },
+    {
+      "country": "Qatar",
+      "government": "Monarquía"
+    },
+    {
+      "country": "Reunion",
+      "government": "Departamento de ultramar de Francia"
+    },
+    {
+      "country": "Romania",
+      "government": "República"
+    },
+    {
+      "country": "Russia",
+      "government": "República federal"
+    },
+    {
+      "country": "Rwanda",
+      "government": "República"
+    },
+    {
+      "country": "Saint Helena",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Saint Lucia",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "government": "Colectividad territorial de Francia"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Samoa",
+      "government": "República parlamentaria"
+    },
+    {
+      "country": "San Marino",
+      "government": "República"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "government": "República"
+    },
+    {
+      "country": "Saudi Arabia",
+      "government": "Monarquía"
+    },
+    {
+      "country": "Scotland",
+      "government": null
+    },
+    {
+      "country": "Senegal",
+      "government": "República"
+    },
+    {
+      "country": "Serbia",
+      "government": "República"
+    },
+    {
+      "country": "Seychelles",
+      "government": "República"
+    },
+    {
+      "country": "Sierra Leone",
+      "government": "República"
+    },
+    {
+      "country": "Singapore",
+      "government": "República"
+    },
+    {
+      "country": "Slovakia",
+      "government": "República"
+    },
+    {
+      "country": "Slovenia",
+      "government": "República"
+    },
+    {
+      "country": "Solomon Islands",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Somalia",
+      "government": "República"
+    },
+    {
+      "country": "South Africa",
+      "government": "República"
+    },
+    {
+      "country": "South Georgia and the South Sandwich Islands",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "South Korea",
+      "government": "República"
+    },
+    {
+      "country": "South Sudan",
+      "government": null
+    },
+    {
+      "country": "Spain",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Sri Lanka",
+      "government": "Unitary Semi-Presidential Republic"
+    },
+    {
+      "country": "Sudan",
+      "government": "República islámica"
+    },
+    {
+      "country": "Suriname",
+      "government": "República"
+    },
+    {
+      "country": "Svalbard and Jan Mayen",
+      "government": "Dependent Territory of Norway"
+    },
+    {
+      "country": "Sweden",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Switzerland",
+      "government": "Federation"
+    },
+    {
+      "country": "Syria",
+      "government": "República"
+    },
+    {
+      "country": "Tajikistan",
+      "government": "República"
+    },
+    {
+      "country": "Tanzania",
+      "government": "República"
+    },
+    {
+      "country": "Thailand",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "The Democratic Republic of Congo",
+      "government": "República"
+    },
+    {
+      "country": "Togo",
+      "government": "República"
+    },
+    {
+      "country": "Tokelau",
+      "government": "Territorio neozelandés de ultramar"
+    },
+    {
+      "country": "Tonga",
+      "government": "Monarquía"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "government": "República"
+    },
+    {
+      "country": "Tunisia",
+      "government": "República"
+    },
+    {
+      "country": "Turkey",
+      "government": "República"
+    },
+    {
+      "country": "Turkmenistan",
+      "government": "República"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "government": "Territorio británico de ultramar"
+    },
+    {
+      "country": "Tuvalu",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "Uganda",
+      "government": "República"
+    },
+    {
+      "country": "Ukraine",
+      "government": "República"
+    },
+    {
+      "country": "United Arab Emirates",
+      "government": "Federación de emiratos"
+    },
+    {
+      "country": "United Kingdom",
+      "government": "Monarquía constitucional"
+    },
+    {
+      "country": "United States",
+      "government": "República federal"
+    },
+    {
+      "country": "United States Minor Outlying Islands",
+      "government": "Dependent Territory of the US"
+    },
+    {
+      "country": "Uruguay",
+      "government": "República"
+    },
+    {
+      "country": "Uzbekistan",
+      "government": "República"
+    },
+    {
+      "country": "Vanuatu",
+      "government": "República"
+    },
+    {
+      "country": "Venezuela",
+      "government": "República federal"
+    },
+    {
+      "country": "Vietnam",
+      "government": "República socialista"
+    },
+    {
+      "country": "Virgin Islands, British",
+      "government": null
+    },
+    {
+      "country": "Virgin Islands, U.S.",
+      "government": null
+    },
+    {
+      "country": "Wales",
+      "government": null
+    },
+    {
+      "country": "Wallis and Futuna",
+      "government": "Territorio francés de ultramar"
+    },
+    {
+      "country": "Western Sahara",
+      "government": "Territorio ocupado (según la fuente)"
+    },
+    {
+      "country": "Yemen",
+      "government": "República"
+    },
+    {
+      "country": "Zambia",
+      "government": "República"
+    },
+    {
+      "country": "Zimbabwe",
+      "government": "República"
+    }
+  ]
+}

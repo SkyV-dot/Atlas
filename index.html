@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111b25" />
+    <title>Atlas — Juego de mesa</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="Atlas, inicio"><span class="brand-mark">A</span><span>ATLAS<span class="brand-sub">WORLD GAME</span></span></a>
+        <div class="topbar-center"><span class="status-dot"></span> EXPLORACIÓN DEL MUNDO</div>
+        <button class="icon-button" id="reset-view" aria-label="Restablecer vista" title="Restablecer vista">⌖</button>
+      </header>
+      <main class="workspace">
+        <section class="map-shell" aria-label="Mapa mundial interactivo">
+          <div class="map-heading"><p class="eyebrow">TABLERO · FASE 01</p><h1>El mundo, a tu alcance.</h1><p class="map-hint">Elige un país para comenzar tu partida.</p></div>
+          <div class="map-view-control"><label for="map-view">VISTA DEL MAPA</label><select id="map-view" aria-label="Cambiar vista del mapa"><option value="orographic">Mapa orográfico</option><option value="regional" disabled>Mapa regional</option><option value="global">Mapa global</option></select></div>
+          <div id="map-root"><div class="loading">Preparando el mapa<span class="loading-dots">...</span></div></div>
+          <div class="map-controls"><span class="map-scale"><i></i> FRONTERAS NACIONALES</span><span class="map-gesture">ARRASTRA PARA MOVER <b>·</b> RUEDA PARA ACERCAR</span></div>
+          <div class="map-credit">DATOS GEOGRÁFICOS · NATURAL EARTH</div>
+        </section>
+        <aside class="side-panel">
+          <div class="panel-top"><span class="eyebrow">PANEL DE EXPLORACIÓN</span><span class="panel-index">01 / 01</span></div>
+          <div class="country-search">
+            <label for="country-picker">BUSCAR UN PAÍS</label>
+            <input id="country-picker" type="search" placeholder="Escribe o elige un país…" autocomplete="off" aria-label="Buscar y seleccionar un país" aria-controls="country-options" aria-expanded="false" role="combobox" />
+            <div id="country-options" class="country-options" role="listbox" aria-label="Países disponibles" hidden></div>
+          </div>
+          <div class="panel-body" id="country-panel">
+            <div class="empty-state"><div class="globe-icon">◎</div><p class="eyebrow">ELIGE TU PRIMER TERRITORIO</p><h2>¿A dónde<br/>vamos primero?</h2><p class="empty-copy">Haz clic en cualquier país del mapa para ver su nombre y comenzar a descubrir el tablero.</p></div>
+          </div>
+          <div class="panel-footer"><span class="footer-mark">A</span><span>UNA PARTIDA, UN MUNDO<br/><b>CONQUISTA TU HISTORIA</b></span></div>
+        </aside>
+      </main>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
